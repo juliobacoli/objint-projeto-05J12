@@ -2,7 +2,7 @@
 
 ## Turma 05J12
 
-## Nome do Projeto: (*Escreva aqui o nome do projeto*)
+## Nome do Projeto: Frequencia de Batimentos Cardiaco
 
 ## Integrantes do Grupo:
 
