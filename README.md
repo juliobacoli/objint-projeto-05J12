@@ -6,11 +6,10 @@
 
 ## Integrantes do Grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
+* Adriano Santos Souza
+* João Marcos Santos
+* Julio Bacoli
+
 
 ## Documentação: (*Coloque os documentos na pasta docs*)
 
